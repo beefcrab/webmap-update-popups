@@ -1,6 +1,7 @@
 #-----------------------------------------------------------------------------
 # WTF is this shiz?:   * Update popup [mediaInfos ]fields in a list of webmaps
 # popupInfo: https://developers.arcgis.com/web-map-specification/objects/popupInfo/
+# JSON Drilldown:
 # field_infos = item_data['operationalLayers'][0]['layers'][0]['popupInfo']['mediaInfos']
 #-----------------------------------------------------------------------------
 
@@ -31,6 +32,7 @@ mapservice_id = "OtherWSLNonAssets_6481"
 layer_id = 0
 
 #modify text:
+#insert this into 
 update = [{
             "title":"",
             "type":"image",
