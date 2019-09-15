@@ -39,7 +39,7 @@ update = [{
             "caption":"",
             "value":{
                 "sourceURL":"configs/PopupPanel/link.png",
-                "linkURL": "https://wsldcttgweb.water.internal/GISApps/dbquery/query.aspx?servno={SERVNO}&type=page"
+                "linkURL": "https://bobbybananas/GISApps/dbquery/query.aspx?servno={SERVNO}&type=page"
             }
          }]
 
