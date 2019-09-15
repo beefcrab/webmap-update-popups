@@ -11,6 +11,7 @@ import json
 ##PARAMETERS
 
 #ENV:
+#if portal, use the portal URL
 AGOL = "arcgis.com"
 
 #source:
